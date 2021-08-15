@@ -3,12 +3,7 @@ import firebase from "firebase";
 import "./App.css";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCWccjH5B9-YSOzYhUxarfcMM-pObKW7Rg",
-  authDomain: "fir-storage-482c2.firebaseapp.com",
-  projectId: "fir-storage-482c2",
-  storageBucket: "fir-storage-482c2.appspot.com",
-  messagingSenderId: "483818614477",
-  appId: "1:483818614477:web:8456737a77e95a45ee0384",
+ 
 };
 firebase.initializeApp(firebaseConfig);
 
